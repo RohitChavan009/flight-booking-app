@@ -13,7 +13,7 @@ Welcome to the Flight Ticket Booking project! This repository contains both the 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flight-ticket-booking.git
+git clone https://github.com/RohitChavan009/flight-booking-app.git
 
 cd flight-ticket-booking
 ```
